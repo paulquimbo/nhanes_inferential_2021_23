@@ -31,6 +31,7 @@ To investigate associations and differences between key health and demographic v
   - PAD680: Cleaned to remove invalid codes (7777, 9999)
 - **Test Used**: ANOVA
 - **Purpose**: To compare average sedentary time between marital groups.
+
 - **Analysis** : The analysis found a statistically significant difference in average sedentary behavior time across marital status groups. Single individuals had the highest mean sedentary time (382.43 minutes), followed by widowed/divorced/separated (363.46 minutes), and married individuals had the lowest (353.29 minutes). The result suggests that marital status may be associated with differences in sedentary behavior.
 
 ---
@@ -42,6 +43,7 @@ To investigate associations and differences between key health and demographic v
   - DMDMARTZ: Cleaned to remove invalid codes (77, 99)
   - **Test Used**: ANOVA  
 - **Purpose**: To assess the interaction and individual effects of age and marital status on blood pressure.
+
 - **Analysis** : There is a statistically significant difference in average systolic blood pressure (BPXOSY3) across marital status groups. Widowed/divorced/separated individuals had the highest mean (126.14 mmHg), followed by married (122.61 mmHg), while single individuals had the lowest (118.85 mmHg). The result suggests marital status may be associated with variations in blood pressure.
 
 ---
@@ -54,6 +56,7 @@ To investigate associations and differences between key health and demographic v
   - WHD020: Cleaned to remove invalid codes (7777, 9999)
 - **Test Used**: Correlation  
 - **Purpose**: To measure the strength and direction of the relationship between weight and sedentary time.
+
 - **Analysis** : The correlation between sedentary behavior time and self-reported weight was 0.16, indicating a very weak positive relationship. This suggests that individuals who spend more time being sedentary tend to weigh slightly more, but the association is minimal and likely not practically significant.
 
 
@@ -69,6 +72,7 @@ I chose this question because, as someone who is married, I was curious whether 
   - DPQ020: Cleaned to remove invalid codes (7, 9)
 - **Test Used**: Chi-square test of independence  
 - **Purpose**: To explore whether depressive symptom frequency varies across marital status groups.
+
 - **Analysis** : The chi-square test shows a statistically significant association between marital status and depressive symptoms (χ² = 157.03, p < 0.0001). Married individuals were more likely to report “Not at all” or “Several days” of depressive symptoms, while single and widowed/divorced/separated individuals had higher counts in the “More than half the days” and “Nearly every day” categories. This suggests that marital status may be linked to how frequently people experience depressive symptoms.
 
 ---
