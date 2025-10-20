@@ -19,7 +19,7 @@ To investigate associations and differences between key health and demographic v
 - **Test Used**: Chi-square test of independence  
 - **Purpose**: To determine whether marital status is associated with educational attainment.
 
-- **Analysis** : Married individuals were more likely to have a bachelor’s degree or higher compared to single or widowed/divorced/separated individuals. This suggests that marital status and education level are meaningfully related in your sample data.
+- **Analysis** : People who are married tend to have a bachelor’s degree or higher more often than those who are single, divorced, separated, or widowed. This shows there’s a clear link between education level and marital status.
 
 ---
 
