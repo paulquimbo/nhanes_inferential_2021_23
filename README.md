@@ -80,9 +80,9 @@ I chose this question because, as someone who is married, I was curious whether 
 ## How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com).
-2. Upload the required NHANES datasets (`DEMO_L.xpt`, `WHQ_L.xpt`, `DPQ_L.xpt`, etc.).
-3. Follow the documented steps in each analysis cell.
-4. Review outputs and visualizations for interpretation.
+2. Follow the steps already provided in the notebook (.ipynb) to download and process the required NHANES datasets such as DEMO_L.xpt, WHQ_L.xpt, DPQ_L.xpt, etc.
+3. Run each analysis cell as instructed to perform the data cleaning, merging, and statistical analysis.
+4. Review the outputs and visualizations to interpret the findings and draw insights.
 
 ---
 
