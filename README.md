@@ -94,3 +94,15 @@ I chose this question because, as someone who is married, I was curious whether 
 - Visualizations (boxplots, count plots, scatterplots) are included to support interpretation.
 
 ---
+
+## Three Options to Run the Report
+**Manual Method:** 
+Download the raw .xpt files manually, place them in the appropriate folders, and use R to convert them to .csv.
+
+**Automated Download via Code:**
+Use R code within the notebook to directly download the .xpt files and convert them to .csv.
+
+**Weblink Reference Method:**
+Use R to reference the files directly via their URLs, eliminating the need to download them manually.
+
+---
