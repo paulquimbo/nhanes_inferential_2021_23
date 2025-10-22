@@ -96,13 +96,13 @@ I chose this question because, as someone who is married, I was curious whether 
 ---
 
 ## Three Options to Run the Report
-**Manual Method:** 
-Download the raw .xpt files manually, place them in the appropriate folders, and use R to convert them to .csv.
+**Automated Scripted Download:**
+Use a Python script to fetch the raw .xpt files and place them in designated folders. Then, process and convert them to .csv format using R.
 
-**Automated Download via Code:**
-Use R code within the notebook to directly download the .xpt files and convert them to .csv.
+**Direct Weblink Download in R:**
+Within the R notebook, use code to download .xpt files directly from their URLs and convert them to .csv. Follow up with Python processing.
 
-**Weblink Reference Method:**
-Use R to reference the files directly via their URLs, eliminating the need to download them manually.
+**URL-Based Referencing in R:**
+Leverage R to access the .xpt files directly via their web URLs, bypassing the need for local downloads altogether.
 
 ---
